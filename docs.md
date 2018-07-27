@@ -35,7 +35,7 @@ You should see "Congratulations. This browser is configured to use Tor." if ever
 Once you are ready, go ahead and download this script over Tor. 
 
 ```bash
-torsocks wget https://github.com/durbanpoison/zcash-tor/archive/master.zip
+torsocks wget https://github.com/ZcashAnonymous/zcash-tor/archive/master.zip
 unzip master.zip
 cd zcash-tor-master
 ```
